@@ -1,4 +1,4 @@
-# songtot - telegram bot for downloading music from YouTube
+# songtot
 
-songtot - SONG Telegram bOt
+ songtot (SONG Telegram bOt) - telegram bot for downloading music from YouTube
 
