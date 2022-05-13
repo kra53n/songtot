@@ -13,7 +13,7 @@ from app.handlers.common_commands import register_start_option
 from app.handlers.choosing_video import searching_options, register_searching_method, choosing_video_options
 
 
-bot = Bot(token=load_config('config/bot.ini').tg_bot.token)
+bot = Bot(token=load_config('config/config_example.ini').tg_bot.token)
 dp = Dispatcher(bot, storage=MemoryStorage())
 messages_to_delete = []
 
